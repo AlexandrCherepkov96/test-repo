@@ -1,0 +1,14 @@
+C:\Users\1645284\Dropbox\Мой ПК (LAPTOP-DLMS8SSI)\Desktop\учеба\Seminar\Sem1\obj\Debug\net8.0\Sem1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1645284\Dropbox\Мой ПК (LAPTOP-DLMS8SSI)\Desktop\учеба\Seminar\Sem1\obj\Debug\net8.0\Sem1.AssemblyInfoInputs.cache
+C:\Users\1645284\Dropbox\Мой ПК (LAPTOP-DLMS8SSI)\Desktop\учеба\Seminar\Sem1\obj\Debug\net8.0\Sem1.AssemblyInfo.cs
+C:\Users\1645284\Dropbox\Мой ПК (LAPTOP-DLMS8SSI)\Desktop\учеба\Seminar\Sem1\obj\Debug\net8.0\Sem1.csproj.CoreCompileInputs.cache
+C:\Users\1645284\Dropbox\Мой ПК (LAPTOP-DLMS8SSI)\Desktop\учеба\Seminar\Sem1\bin\Debug\net8.0\Sem1.exe
+C:\Users\1645284\Dropbox\Мой ПК (LAPTOP-DLMS8SSI)\Desktop\учеба\Seminar\Sem1\bin\Debug\net8.0\Sem1.deps.json
+C:\Users\1645284\Dropbox\Мой ПК (LAPTOP-DLMS8SSI)\Desktop\учеба\Seminar\Sem1\bin\Debug\net8.0\Sem1.runtimeconfig.json
+C:\Users\1645284\Dropbox\Мой ПК (LAPTOP-DLMS8SSI)\Desktop\учеба\Seminar\Sem1\bin\Debug\net8.0\Sem1.dll
+C:\Users\1645284\Dropbox\Мой ПК (LAPTOP-DLMS8SSI)\Desktop\учеба\Seminar\Sem1\bin\Debug\net8.0\Sem1.pdb
+C:\Users\1645284\Dropbox\Мой ПК (LAPTOP-DLMS8SSI)\Desktop\учеба\Seminar\Sem1\obj\Debug\net8.0\Sem1.dll
+C:\Users\1645284\Dropbox\Мой ПК (LAPTOP-DLMS8SSI)\Desktop\учеба\Seminar\Sem1\obj\Debug\net8.0\refint\Sem1.dll
+C:\Users\1645284\Dropbox\Мой ПК (LAPTOP-DLMS8SSI)\Desktop\учеба\Seminar\Sem1\obj\Debug\net8.0\Sem1.pdb
+C:\Users\1645284\Dropbox\Мой ПК (LAPTOP-DLMS8SSI)\Desktop\учеба\Seminar\Sem1\obj\Debug\net8.0\Sem1.genruntimeconfig.cache
+C:\Users\1645284\Dropbox\Мой ПК (LAPTOP-DLMS8SSI)\Desktop\учеба\Seminar\Sem1\obj\Debug\net8.0\ref\Sem1.dll
